@@ -130,3 +130,12 @@ endmodule
 - Một số tài liệu: https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors%40tkb/5738/1/i.MX8X%20DSP%20SOF%20IIR_FIR%20EQ%20Basic%20Theory.pdf
 
 **Anh Nam sẽ hướng dẫn mọi người login vào Cadence của LAB. Thầy Minh sẽ hướng dẫn sau.**
+- Tailscale: Tạo ra một mảng ảo, sau khi có thì dùng SSH đăng nhập vào, BMC để -> vào được server đã cài sẵn server.
+- 10 người cùng vào thì chia thành 10 users khác nhau.
+- 18 nhóm thì user từ 1 đến 18. Nhưng ko đủ tài nguyên thì phải đặt lịch.
+- Sang nữa kỳ sau thì phải học phần tổng hợp. Phải thực hành trên user.
+- RTl ra Netlist > Floor Planning Placement and Routing > Verify Timing, Power (kiểm tra hợp lệ)
+- Tài liệu link về bài Cadence đã gửi thầy. Sẽ có hướng dẫn chi tiết + có cả bài lab trước của anh.
+
+**BTVN2: (Từ bây giờ đến 11h30 3/30/2024)**
+Phải login vào server.
