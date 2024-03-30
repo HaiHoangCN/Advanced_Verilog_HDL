@@ -4,7 +4,7 @@
 Các phép toán cộng trừ, AND, OR, NOT được dùng. Hạn chế tối đa bộ phép nhân
 
 ## 1.1 - SPEC
-![image](https://github.com/HaiHoangCN/Advanced_Verilog_HDL/assets/51068749/352c81e5-583b-421e-b7a0-becc5cf09eda)
+<img src="https://github.com/HaiHoangCN/Advanced_Verilog_HDL/assets/51068749/352c81e5-583b-421e-b7a0-becc5cf09eda" height="250">
 
 | TT  | Trường hợp  | Trạng thái  | Đầu ra  |
 |---|---|---|---|
@@ -16,3 +16,11 @@ Các phép toán cộng trừ, AND, OR, NOT được dùng. Hạn chế tối đ
 - Các khối chức năng
 - SPEC của các khối
 - Cách các khối kết nối và trao đổi thông tin
+
+Các khối:
+- Tạo xung 1s
+- Đếm s, mi, h, d, mo, y
+- Điều khiển LED
+
+Có 2 cách count:
+- Cách 1: Count binary s 0 -> 60 cần 6 bits (tương tự với mi, h, d, mo, y)
