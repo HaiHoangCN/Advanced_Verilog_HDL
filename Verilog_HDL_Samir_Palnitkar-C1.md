@@ -22,4 +22,8 @@
 
 - Figure: Design VLSI IC circuits (Unshaded blocks - level of design representation, Shaded blocks - processes in design flow).
 - ***SPECs*** describe abstractly functionality, interface, overall architecture of digital circuit to be designed, don't care how to implement this circuit.
-- A behavioral description: 
+- A ***behavioral description*** (ofter written in HDLs): analyze design in terms of functionality, performance, compliance to standards & other high-level issues.
+- New EDA tools (= HDLs + OOP like C++) simulate circuits behaviour descriptions.
+- Behavioral description is manually converted into an RTL description in an HDL => Has to describe data flow implementing the desired digital circuit, Done with EDA tools.
+- ***Logic synthesis tools*** convert RTL description to a ***gate-level netlist*** (a description of circuit i.t.of gates and connections bw them).
+- 
