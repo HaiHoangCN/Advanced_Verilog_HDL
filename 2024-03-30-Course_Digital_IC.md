@@ -128,6 +128,7 @@ endmodule
 - Code Python làm equalizer và mn chỉ cần chứng minh code Verilog giống code Python này. 
 - Tuần sau các nhóm sẽ phải trình bày thiết kế Equaliser có đúng 10p. Bắt đầu sớm. Trình bày kiến trúc, kết quả..., kết quả mô phỏng...
 - Một số tài liệu: https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors%40tkb/5738/1/i.MX8X%20DSP%20SOF%20IIR_FIR%20EQ%20Basic%20Theory.pdf
+- Bộ lọc 2 tuần làm. Tuần sau check tiến độ
 
 **Anh Nam sẽ hướng dẫn mọi người login vào Cadence của LAB. Thầy Minh sẽ hướng dẫn sau.**
 - Tailscale: Tạo ra một mảng ảo, sau khi có thì dùng SSH đăng nhập vào, BMC để -> vào được server đã cài sẵn server.
@@ -138,4 +139,14 @@ endmodule
 - Tài liệu link về bài Cadence đã gửi thầy. Sẽ có hướng dẫn chi tiết + có cả bài lab trước của anh.
 
 **BTVN2: (Từ bây giờ đến 11h30 3/30/2024)**
-Phải login vào server.
+- Phải login vào server.
+- Link hướng dẫn vào server: https://github.com/cern143/edabk_SoC_doc/blob/main/edabk_server_manual(cookbook).md
+
+Done "Step I: Tailscale" using Windows 11
+- Truy cập page https://pkgs.tailscale.com/stable/#windows
+- Tải file tailscale-setup-1.62.1-amd64.msi: 64-bit x86 (amd64)
+- Cài đặt rồi đến login Tailscale https://login.tailscale.com/login?next_url=%2Fa%2F1682050e010aa3&refresh=true
+- ![image](https://github.com/HaiHoangCN/Advanced_Verilog_HDL/assets/51068749/d91f56cc-3205-418b-a87a-57c943e51172) ở taskbar dưới bên phải sẽ vào web login
+- <img src="https://github.com/HaiHoangCN/Advanced_Verilog_HDL/assets/51068749/80299dd8-7c3b-449b-8afc-ba95034b188a" height="250"> Successfully Connect sử dụng tài khoản trường
+- 
+
