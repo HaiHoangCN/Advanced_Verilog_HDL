@@ -26,4 +26,5 @@
 - New EDA tools (= HDLs + OOP like C++) simulate circuits behaviour descriptions.
 - Behavioral description is manually converted into an RTL description in an HDL => Has to describe data flow implementing the desired digital circuit, Done with EDA tools.
 - ***Logic synthesis tools*** convert RTL description to a ***gate-level netlist*** (a description of circuit i.t.of gates and connections bw them).
-- 
+- ***Logic synthesis tools*** ensure GTN meeting timing, area and power specifications. GTN is i/p to an ***Automatic Place and Route*** tool, which creates a layout. Layout is verified & then fabricated on a chip.
+- EDA tools are susceptible to the GIGO (Garbage In Garbage Out) phenomenon.
